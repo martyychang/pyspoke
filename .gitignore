@@ -126,3 +126,6 @@ dmypy.json
 
 # Temporary files
 tmp/
+
+# Mac OS X
+.DS_Store
